@@ -6,5 +6,5 @@ Minesweeper is a C++ based application using the sfml library for a GUI implemen
 
 ### Built With
 
-* ![C++]
+* ![C]
 
